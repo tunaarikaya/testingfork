@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  FinansDostu
+//  FinansDostud
 //
 //  Created by Mehmet Tuna Arıkaya on 6.01.2025.
 //
