@@ -18,4 +18,4 @@ struct FinansDostu: App {
                 .preferredColorScheme(viewModel.isDarkMode ? .dark : .light)
         }
     }
-} //:&:&
+} //:&:&.sstst
